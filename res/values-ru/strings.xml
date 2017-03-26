@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">DuckDuckGo</string>
+    <string name="SearchString">Поиск DuckDuckGo</string>
+    <string name="SettingsButtonContentDescription">настройки</string>
+    <string name="HomeButtonContentDescription">Главная</string>
+    
+    <string name="search_hint">Поиск&#8230;</string>
+    
+    <string name="PrefGroupGeneral">Генеральная</string>
+    <string name="PrefGroupStories">Истории</string>
+    <string name="PrefGroupSearch">Поиск</string>
+    <string name="PrefGroupOther">Другие</string>
+    <string name="PrefGroupAppFlow">заявка</string>
+    <string name="PrefGroupPrivacy">Конфиденциальность</string>
+    <string name="PrefGroupFeedback">Обратная связь</string>
+    <string name="PrefTheme">тема</string>
+    <string name="PrefThemeLight">Легкий</string>
+    <string name="PrefThemeDark">Темно</string>
+    <string name="PrefStartScreen">домашняя страница</string>
+    <string name="PrefStories">Истории</string>
+    <string name="PrefWaterCoolerStories">Истории</string>
+    <string name="PrefSavedItems">@string/favorites</string>
+    <string name="PrefDuckMode">Поиск</string>
+    <string name="PrefRecentSearch">@string/recents</string>
+    <string name="PrefRecordHistory">Сохранить недавних</string>
+    <string name="PrefClearHistory">Четкие Недавних</string>
+    <string name="PrefRecordCookies">Сохранить куки</string>
+    <string name="PrefClearCookies">Очистить куки</string>
+    <string name="PrefClearBrowserCache">Очистить кэш браузера</string>
+    <string name="PrefClearCacheAndCookies">Очистить куки и кэш</string>
+    <string name="PrefSources">источники</string>
+    <string name="PrefResetSources">Сбросить источники</string>
+    <string name="PrefRegion">Область</string>
+    <string name="PrefDirectQuery">Поиск на кран</string>
+    <string name="PrefExternalBrowser">Используйте внешний браузер</string>
+    <string name="PrefNever">Никогда</string>
+    <string name="PrefExternalBrowserExceptSearches">Для получения результатов непоисковых</string>
+    <string name="PrefExternalBrowserAlways">Всегда</string>
+    <string name="PrefClearCacheCookiesEveryLaunch">Каждый запуск</string>
+    <string name="PrefClearCacheCookiesWeekly">еженедельно</string>
+    <string name="PrefClearCacheCookiesMonthly">ежемесячно</string>
+    <string name="PrefSendFeedback">Оставить отзыв</string>
+    <string name="PrefAbout">Около</string>
+    <string name="PrefRate">Оценить приложение</string>
+    <string name="PrefAppSearch">включают приложения</string>
+    <string name="PrefMainFontSize">размер шрифта</string>
+    <string name="PrefEnableAcra">автоматический отчет о сбое</string>
+    <string name="PrefAcraDisabled">автоматическая отчетность отключена</string>
+    <string name="PrefAcraEnabled">Автоматическая отчетность включена</string>
+    <string name="PrefEnableJavascript">Включить Javascript</string>
+    
+    <string name="PrefWaterCooler">Истории</string>
+    <string name="PrefAutocomplete">Автополный</string>
+    <string name="PrefSearchResults">Результаты поиска</string>
+    <string name="PrefTurnOffAutocomplete">Отключено</string>
+
+    <string name="PrefAutoUpdate">автоматический корма обновления</string>
+    <string name="PrefReadable">читабельность</string>
+    <string name="PrefReadableSummary">когда доступно</string>
+    <string name="PrefGroupTor">Tor</string>
+    <string name="PrefEnableTor">включить Tor</string>
+    <string name="PrefCheckOrbotStatus">проверить Orbot статус</string>
+    <string name="OrbotStatusOkTitle">Orbot статус </string>
+    <string name="OrbotStatusOkMessage">Orbot кажется, работает нормально!</string>
+    <string name="OrbotCheckSite">https://check.torproject.org</string>
+    
+    <string name="ShareStory">Поделиться История</string>
+    <string name="ShareSearch">Поделиться поиск</string>
+    <string name="SharePage">Поделиться страница</string>
+    
+    <string name="RegularShareFormat">%1$s С помощью DuckDuckGo для Android</string>
+    <string name="TwitterShareFormat">%1$s С помощью @duckduckgo для Android</string>
+    
+    <string name="Yes">да</string>
+    <string name="No">Нет</string>
+    
+    <string name="Save">Сохранить</string>
+    <string name="Unsave">неспасенный</string>
+    <string name="Share">Поделиться</string>
+    <string name="Refresh">обновление</string>
+    <string name="Delete">Удалить</string>
+    
+    <string name="LeftStories">Истории</string>
+    <string name="LeftSaved">Сохранено</string>
+    <string name="LeftSettings">настройки</string>
+    <string name="LeftRecent">недавний</string>
+    <string name="LeftRecentQueries">Последние запросы</string>
+    
+    <string name="Confirm">подтвердить</string>
+    <string name="ConfirmClearHistory">Вся история поиска будут удалены. Ты уверен?</string>
+    <string name="ConfirmClearCookies">Все куки будут удалены. Ты уверен?</string>
+    <string name="ConfirmClearCacheAndCookies">кэш браузера будут удалены. Ты уверен?</string>
+    
+    <string name="Default">По умолчанию</string>
+    <string name="Defaults">Восстановление значений по умолчанию</string><!-- new -->
+    <string name="SuggestSource">Предложить источник</string>
+    <string name="SuggestedSources">Пожалуйста, включите эти источники:</string>
+    
+    <string name="FeedbackTo">DuckDuckGo Обратная связь &lt;help@duckduckgo.com&gt;</string>
+    <string name="FeedbackSubject">DuckDuckGo Android v2</string>
+    
+    <string name="SavedFeedEmptyTitle">У вас нет сохраненных историй</string>
+    <string name="SavedFeedEmptySubTitle">Вы можете сохранить истории в строке поиска меню \'s действия.</string>
+    <string name="SavedResultsEmptyTitle">У вас нет сохраненных результатов</string>
+    <string name="SavedResultsEmptySubTitle">Вы можете сохранить результаты поиска в поисковой строке меню \'s действия.</string>
+    
+    <string name="MoreMenuTitle">параметры страницы</string>
+    
+    <string name="OpenInExternalBrowser">Открыть во внешнем браузере</string>
+    <string name="ConfirmExternalBrowser">Пожалуйста подтвердите</string>
+    
+    <string name="ChangingFontSize">Изменение размера шрифта&#8230;</string>
+
+
+    <string name="crash_toast_text">Применение разбился! Разбейте данные, связанные будут собраны и представлены после подтверждения.</string>
+    <string name="crash_notif_ticker_text">Неожиданная ошибка, пожалуйста, отправить отчет&#8230;</string>
+    <string name="crash_notif_title">DuckDuckGo отчет о сбое</string>
+    <string name="crash_notif_text">Пожалуйста, нажмите здесь, чтобы помочь решить проблему.</string>
+    <string name="crash_dialog_text">Произошла непредвиденная ошибка.
+        Pлизинг поможет нам решить эту проблему, нажав кнопку \ "ОК \", чтобы отправить данные по аварии, связанные с. Данные только мы получим это: APP_VERSION_CODE, APP_VERSION_NAME, ANDROID_VERSION, STACK_TRACE,
+        AVAILABLE_MEM_SIZE, ReportField.USER_COMMENT, LOGCAT.</string>
+    <string name="crash_dialog_comment_prompt">Ваш комментарий: </string>
+    <string name="crash_dialog_ok_toast">Спасибо за помощь!</string>
+    
+    <string name="ErrorAppNotFound">Приложение не найдено</string>
+    <string name="ErrorActivityNotFound">Нет связанной активности найдены!</string>
+    <string name="ErrorDownloadFailed">Ошибка загрузки!</string>
+    <string name="ErrorDownloadOpenFail">Загруженный файл не может быть открыт!</string>
+
+    <string name="ToastSchemeNotSupported">Невозможно загрузить файл</string>
+    <string name="ToastDownloadManagerUnavailable">Невозможно загрузить файл</string>
+    
+    <string name="InfoReadStoriesFromCache">Не удалось установить соединение! Истории извлекаются из кэша&#8230;</string>
+    <string name="DefaultsSetToast">Источники сброса по умолчанию.</string>
+    <string name="SuggestSourceToast">Для того, чтобы быть реализованы.</string>
+    <string name="Loading">загрузка&#8230;</string>
+    
+    <string name="SummaryWaterCooler">
+        Эти источники создают поток интересных историй, которые вы выиграли \ 'т найти в обычных приложениях новостей.
+         Все источники специальные каналы, такие как \ "Общий наиболее \" или \ "самые-голосование. \"
+         Проверьте это, когда вы \ 'вновь ждет вокруг в течение пяти минут.
+         Примечание: Вы можете удалить Истории из вашего домашнего экрана с помощью "Домашний экран \" Настройка \.
+    </string>
+
+    <string name="WaterCoolerSources">Истории</string>
+    
+    <string name="InformHistory"><i>Сохранить недавних</i> отключен. Вы можете включить его в <i>настройки.</i></string>
+    
+    <string name="Continue">Продолжать</string>
+    <string name="Retry">Повт</string>
+    <string name="ErrorFeedTitle">Error: корм запрос</string>
+    <string name="ErrorFeedDetail">корм запрос не удалось, возможно, из-за проблем с подключением.
+        Вы по-прежнему сможете просматривать пункты кэшированные или вы можете выбрать, чтобы повторить попытку.</string>
+        
+    <string name="Apply">Подать заявление</string>
+    <string name="Cancel">Отмена</string>
+    <string name="NoChange">Без изменений</string>
+    
+    <string name="OnlyOnPhone">Только по телефону</string>
+    <string name="SelectAppToSend">Выберите приложение для отправки</string>
+    
+    <string name="ReadabilityOn">Читаемость На</string>
+    <string name="ReadabilityOff">Читаемость выключено</string>
+    
+    <string name="SavedSearches">Сохраненные поиски</string>
+    <string name="SavedStories">Сохраненные истории</string>
+    <string name="StoryOptionsTitle">История Опции</string>
+    <string name="SearchOptionsTitle">поиски Опции</string>
+    <string name="PageOptionsTitle">страница Опции</string>
+    
+    <string name="ToastUnSaveStory">История была удалена из сохраненных историй.</string>
+    <string name="ToastUnSaveSearch"> Поиск был удален из ваших сохраненных поисков.</string>
+    <string name="ToastSaveStory">Ваша история была сохранен.</string>
+    <string name="ToastSaveSearch">Ваш поиск сохранен.</string>
+    <string name="ToastDeleteStoryInHistory">История была удалена из истории.</string>
+    <string name="ToastDeleteUrlInHistory">Ссылка была удалена из вашей истории.</string>
+    
+    <string name="WelcomeHeader">введение</string>
+    <string name="WelcomeTitle">DuckDuckGo поиск &amp; истории</string>
+    <string name="WelcomeDescription">
+        Поиск анонимно.\nНайти Мгновенно.\nОставаться проинформировал.</string>
+    <string name="GetStarted">Начать</string>
+    
+    <string name="BangButtonExplanation">Поиск на других сайтах легко с !команды.</string>
+    
+    <string name="LeftRecentSearches">Недавние поиски</string>
+    <string name="LeftRecentStories">недавний Истории</string>
+    <string name="NewSources">Мы\'ве добавили некоторые новые интересные источники рассказа!</string>
+    <string name="NewSourcesOk">Покажи мне</string>
+    <string name="NewSourcesNoThx">Позже</string>
+
+    <string name="WorldTraveler">World Traveler (none)</string>
+
+
+    <!--new strings--><!--
+    <string name="add_favourites">Добавить в избранное</string>
+    <string name="remove_favourites">Удалить из избранное</string>
+    <string name="share">Поделись этим</string>
+    <string name="view_external">Просмотр в браузере</string>
+    <string name="reload">перезагружать</string>-->
+    <string name="stories">Истории</string>
+    <string name="help_feedback">Помогите &amp; Обратная связь</string>
+    <string name="settings">настройки</string>
+
+    <!--favorites fragment -->
+    <string name="favorites">Избранное</string>
+    <string name="favorite_stories">Избранное Истории</string>
+    <string name="favorite_stories_narrow">@string/stories</string>
+    <string name="favorite_search">Избранное Поисковые запросы</string>
+    <string name="favorite_search_narrow">Поисковые запросы</string>
+    <string name="empty_favorites_title">нет Избранное</string>
+    <string name="empty_favorites_text">Добавить поиски и истории\nв избранное, И они\nЗдесь будет показана Вот.</string>
+
+    <!--recents fragment-->
+    <string name="recents">Недавние</string>
+    <string name="recent_stories">последние истории</string>
+    <string name="recent_stories_narrow">@string/stories</string>
+    <string name="recent_searches">Последние поиски</string>
+    <string name="recent_searches_narrow">Поисковые запросы</string>
+    <string name="empty_recents_title">Нет Недавних</string>
+    <string name="empty_recents_text">Как только вы начинаете поиск\nили просмотра истории, Ваша деятельность\nnЗдесь будет показана Вот.</string>
+    <string name="disabled_recents_title">Недавних отключена</string>
+    <string name="disabled_recents_text">Вы можете включить в настройках недавних действий.</string>
+
+    <!--about fragment-->
+    <string name="about">Около</string>
+    <string name="about_text">Поисковая система, которая не\nследить за вами.</string>
+    <string name="version">Версия</string>
+    <string name="select_application">Выберите приложение</string>
+
+    <!--help feedback fragment-->
+    <string name="help">Помогите</string>
+    <string name="android_help_center">Android Центр помощи</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="leave_feedback">Оставить отзыв</string>
+    <string name="rate">Оценить приложение</string>
+
+    <!-- change sources fragment-->
+    <string name="change_sources">источники</string>
+    <string name="options">Опции</string>
+
+    <!-- menus -->
+    <string name="action_stories">@string/stories</string>
+    <string name="action_recents">@string/recents</string>
+    <string name="action_favorites">@string/favorites</string>
+    <string name="action_settings">@string/settings</string>
+    <string name="action_help_feedback">Помогите &amp; Обратная связь</string>
+    <string name="action_reload">Обновить страницу</string>
+    <string name="action_add_favorite">Добавить в избранное</string>
+    <string name="action_remove_favorite">Удалить из избран</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_view_external">Просмотр в браузере</string>
+    <string name="action_back">вспять</string>
+    <string name="action_forward">Вперед</string>
+    <string name="action_close">Закрыть</string>
+    <string name="remove">Удалить</string>
+</resources>
